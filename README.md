@@ -76,7 +76,7 @@ python chatbot.py
 - **Elif Suna Gegin** – Requirements analysis and database modeling
 - **Umay Ece Mantar** – UI design and documentation
 
-> 💼 Developed for the course **Database Management Systems**, Fall 2024-2025, Eskisehir Osmangazi University  
+> 💼 Developed for the course **Database Management Systems**, Fall 2024-2025, Eskisehir Osmangazi University-Computer Engineering  
 > 🏢 With collaboration from **Ford Otosan** (Contact: Ömer Ersoy Alanyalı)
 
 ---
